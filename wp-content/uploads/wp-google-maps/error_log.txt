@@ -1,0 +1,2 @@
+Error log created
+2015-01-19 17:17:53: Could not save XML file -> Could not save marker XML file (/Users/msmith/apps/wordpress/evotech/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
